@@ -2,7 +2,7 @@
 How to implement MySQL using PHP. Absolutely PDO.
 
 ## This is database relationship
-![Database Relationship](http://github.com/insanrizky/php-mysql-fundamental/assets/img/database-relationship.png)
+![Database Relationship](/assets/img/database-relationship.png)
 
 You can also import database from `db` directory.
 
